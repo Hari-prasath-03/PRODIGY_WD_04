@@ -215,14 +215,16 @@
     }
 
     .contact-right .input-group input {
-        width: 110%;
+        width: 97%;
         font-size: 18px;
         height: 55px;
+        border-radius: 10px;
     }
 
     .contact-right .input-group textarea {
         font-size: 18px;
         width: 108%;
+        border-radius: 10px;
     }
 
     .contact-submit {
