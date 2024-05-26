@@ -9,7 +9,7 @@ const Hero = () => {
     <div id="home" className="hero">
       <img src="{profile_img}" alt="" />
       <h1>
-        <span>I&apos;m John,</span> frontend developer from Salem.
+        <span>I&apos;m John,</span> frontend developer from California.
       </h1>
       <p>
         I am a skilled Front-End Developer and a continuous learner. I&apos;m
